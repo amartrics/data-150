@@ -6,4 +6,4 @@
 
 [Day 2: 8/25/2020](rosling.md)
 
-[Day 3: 9/3/2020](classq&a.md)
+[Day 3: 9/3/2020](q&a.md)
