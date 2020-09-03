@@ -5,3 +5,5 @@
 [Day 1: 8/20/2020](blumenstock.md)
 
 [Day 2: 8/25/2020](rosling.md)
+
+[Day 3: 9/3/2020](classq&a.md)
