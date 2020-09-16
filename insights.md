@@ -15,3 +15,4 @@ Bosco, C., et. al. “Exploring the high-resolution mapping of gender-disaggrega
 Chen, Ming Hui, et. al. “Bayesian Variable Selection and Computation for Generalized Linear Models with Conjugate Priors.” *Bayesian Analysis*, vol. 3, no. 3, 2007, pp. 586-613. *Project Euclid*, https://projecteuclid.org/euclid.ba/1340370439. 
 
 Ojo, Oluwatobi Blessing, et. al. “Bayesian generalized linear mixed modeling of Tuberculosis using informative priors.” *PLOS One*, 3 Mar 2017, https://doi.org/10.1371/journal.pone.0172580. 
+ 
