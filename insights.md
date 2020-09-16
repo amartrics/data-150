@@ -6,7 +6,11 @@
 
 **Works Cited**
 “Bayesian Statistics explained to Beginners in Simple English.” *Analytics Vidhya*, 20 Jun 2016, https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/. 
+
 Bakker, Ryan. “Bayesian Methods: Review of Generalized Linear Models.” https://spia.uga.edu/faculty_pages/rbakker/bayes/Day2.applied.bayes.pdf. 
+
 Bosco, C., et. al. “Exploring the high-resolution mapping of gender-disaggregated development indicators.” *Journal of the Royal Society Interface*, 5 Apr 2017, http://dx.doi.org/10.1098/rsif.2016.0825. 
+
 Chen, Ming Hui, et. al. “Bayesian Variable Selection and Computation for Generalized Linear Models with Conjugate Priors.” *Bayesian Analysis*, vol. 3, no. 3, 2007, pp. 586-613. *Project Euclid*, https://projecteuclid.org/euclid.ba/1340370439. 
+
 Ojo, Oluwatobi Blessing, et. al. “Bayesian generalized linear mixed modeling of Tuberculosis using informative priors.” *PLOS One*, 3 Mar 2017, https://doi.org/10.1371/journal.pone.0172580. 
