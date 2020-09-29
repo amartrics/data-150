@@ -1,4 +1,4 @@
-# Assignment 6: Chris Anderson's "The End of Theory" and Rob Kitchin's rebuttal
+# Assignment 5: Chris Anderson's "The End of Theory" and Rob Kitchin's rebuttal
 
 Response #1: *In Support of Rob Kitchin*
 
