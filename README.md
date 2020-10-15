@@ -13,3 +13,5 @@
 [Annotated Bibliography (9/19/2020)](bib.md)
 
 [Assignment 5: 9/29/2020](kitchinanderson.md)
+
+[Assignment 6: 10/14/2020](survival.md) 
