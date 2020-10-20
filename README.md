@@ -17,3 +17,5 @@
 [Assignment 6: 10/14/2020](survival.md) 
 
 [Assignment 7: 10/15/2020](barder.md)
+
+[Literature Review: 10/19/2020](litreview.md) 
