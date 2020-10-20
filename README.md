@@ -10,7 +10,7 @@
 
 [Assignment 4: 9/16/2020](insights.md)
 
-[Annotated Bibliography (9/19/2020)](bib.md)
+[Annotated Bibliography: 9/19/2020](bib.md)
 
 [Assignment 5: 9/29/2020](kitchinanderson.md)
 
