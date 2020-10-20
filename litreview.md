@@ -20,13 +20,23 @@ Final Word Count: 2470
 
 **References**
 [1] Strachan, Glenda, et al. “Gender (In)Equality in South Asia: Problems, Prospects and Pathways.” South Asian Journal of Human Resources Management, 2015. https://doi.org/10.1177/2322093715580222. 
+
 [2] Bosco, C., et al. “Exploring the high-resolution mapping of gender-disaggregated development indicators.” J. R. Soc. Interface, 2017. http://dx.doi.org/10.1098/rsif.2016.0825. 
+
 [3] Vaitla, Bapu, et al. “Big Data and the Well-Being of Women and Girls – Applications on the Social Scientific Frontier.” Data2x, Apr 2017. https://data2x.org/resource-center/big-data-and-the-wellbeing-of-women-and-girls/. 
+
 [4] “Global Wage Report 2018/2019.” International Labor Organization (ILO), 2018. https://www.ilo.org/global/about-the-ilo/multimedia/maps-and-charts/enhanced/WCMS_650829/lang--en/index.htm. 
-[5] Buvinic, Maya, et al. “Mapping Gender Data Gaps.” Data2x, Mar 2014. https://data2x.org/wp-content/uploads/2019/05/Data2X_MappingGenderDataGaps_FullReport.pdf. 
+
+[5] Buvinic, Maya, et al. “Mapping Gender Data Gaps.” Data2x, Mar 2014. https://data2x.org/wp-content/uploads/2019/05/Data2X_MappingGenderDataGaps_FullReport.pdf.
+
 [6] Niaz, Unaiza and Hassan, Sehar. “Culture and mental health of women in South-East Asia.” World Psychiatry, Jun 2006, vol. 5, no. 2, pp. 118-120. PubMed Central, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1525125/. 
+
 [7] Fikree, Fariyal F. and Pasha, Omrana. “Role of gender in health disparity: the South Asian context.” The BMJ, Apr 2004, vol. 328, pp. 823-826. PubMed Central, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC383384/. 
+
 [8] Lopes, Claudia A. and Bailur, Savita. “Gender Equality and Big Data – Making Gender Data Visible.” United Nations Entity for Gender Equality and the Empowerment of Women, Jan 2018. UN Women, https://www.unwomen.org/en/digital-library/publications/2018/1/gender-equality-and-big-data. 
+
 [9] “Feasibility Study: Identifying Trends in Discrimination Against Women in the Workplace In Social Media.” Global Pulse Project Series, 2014, no. 11. UN Global Pulse, https://www.unglobalpulse.org/document/identifying-trends-in-discrimination-against-women-in-the-workplace-in-social-media/. 
+
 [10] Bosco, C., et al. “Exploring the high-resolution mapping of gender-disaggregated development indicators.” J. R. Soc. Interface, 2017. http://dx.doi.org/10.1098/rsif.2016.0825. 
+
 [11] “Goal 5: Gender equality.” United Nations Development Programme. https://www.undp.org/content/undp/en/home/sustainable-development-goals.html. 
