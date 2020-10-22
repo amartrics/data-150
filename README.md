@@ -19,3 +19,5 @@
 [Assignment 7: 10/15/2020](barder.md)
 
 [Literature Review: 10/19/2020](litreview.md) 
+
+[Assignment 8: 10/22/2020](inquiry.md)
