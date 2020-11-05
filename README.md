@@ -21,3 +21,5 @@
 [Literature Review: 10/19/2020](litreview.md) 
 
 [Assignment 8: 10/22/2020](inquiry.md)
+
+[In-Class Essay: 11/5/2020](inclassessay.md)
