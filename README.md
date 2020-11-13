@@ -23,3 +23,5 @@
 [Assignment 8: 10/22/2020](inquiry.md)
 
 [In-Class Essay: 11/5/2020](inclassessay.md)
+
+[Methodologies & Framework Paper: 11/12/2020](methods.md)
