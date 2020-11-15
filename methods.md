@@ -1,5 +1,6 @@
-Final Word Count (Content Only): 2,617
 ## Quantifying Gendered Unfreedoms: Proposed Methodologies for the Resolution of the Gender Data Gap and the Enumeration of Female Wellbeing
+
+*Final Word Count (Content Only): 2,617*
 
 ### Introduction 
 
