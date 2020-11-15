@@ -1,4 +1,4 @@
-# Quantifying Gendered Unfreedoms (A. Richter)
+# Quantifying Gendered Unfreedoms
 
 ### Abstract
 
