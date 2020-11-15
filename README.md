@@ -25,3 +25,5 @@
 [In-Class Essay: 11/5/2020](inclassessay.md)
 
 [Methodological Investigation: 11/12/2020](methods.md)
+
+[Abstract: 11/15/2020](abstract.md)
